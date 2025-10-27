@@ -3,9 +3,9 @@
  * @author thornling
  * @version 0.1.1
  * @description lowercase discord ui plugin with more options
- * @source https://github.com/thornling/lowercase-ui-for-betterdiscord
- * @updateUrl https://raw.githubusercontent.com/thornling/lowercase-ui-for-betterdiscord/refs/heads/main/plugin/bd-lowercase-ui.plugin.js
- * @note adds toggles to the lowercase ui theme
+ * @source https://github.com/thornling/lowercase-ui-plugin
+ * @updateUrl https://raw.githubusercontent.com/thornling/lowercase-ui-plugin/refs/heads/main/bd-lowercase-ui.plugin.js
+ * @note adds toggles to lowercase ui theme https://github.com/thornling/lowercase-ui-for-betterdiscord
  */
 
 module.exports = class LowercaseUI {
@@ -650,4 +650,5 @@ section.markup__75297 [data-text-variant] {
 }
         `;
     }
+
 }
