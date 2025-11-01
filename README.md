@@ -1,10 +1,10 @@
 #### lowercase ui plugin for betterdiscord
 ###### description:
-a plugin that lowercases discord ui with toggles for message content, user display, and server info.
+a plugin that lowercases discord ui with toggles for message content, user display, and server info. for a simple global lowercase, see the theme.
 ###### github:
 - [betterdiscord](https://github.com/BetterDiscord) - required
 - [lowercase ui plugin](https://github.com/thornling/lowercase-ui-plugin) - plugin files
-- [lowercase ui theme](https://github.com/thornling/lowercase-ui-for-betterdiscord) - a simpler alternative
+- [lowercase ui theme](https://github.com/thornling/lowercase-ui-for-betterdiscord) - theme files
 ###### installation:
 1. this plugin works with betterdiscord  
 2. in discord: go to settings > betterdiscord > plugins
